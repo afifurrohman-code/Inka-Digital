@@ -1,0 +1,6 @@
+{
+  "name": "Inka Digital - Platform Undangan Digital Luxe & Modern",
+  "description": "Platform pembuatan website undangan pernikahan digital eksklusif, interaktif, dengan QR Code Check-in, amplop cashless bebas potongan, dan input nama tamu tanpa batas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
